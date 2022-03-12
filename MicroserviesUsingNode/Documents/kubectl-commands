@@ -1,0 +1,6 @@
+Creating a pod:-
+	Go to the desired folder and run the yaml file
+	kubectl apply -f 'name of yaml file with .yaml'
+	
+Get Pods:-
+ kubectl get pods
